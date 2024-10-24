@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Archives
 ---
 
 <div class="posts">
