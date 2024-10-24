@@ -1,0 +1,22 @@
+# Setup
+title: ' '
+tagline: '무기새'
+description: '무기새'
+url: https://mugisae.github.io
+baseurl: /
+paginate: 5
+permalink: /read/:title
+
+# About/contact
+author:
+  name: 
+  url: 
+  email: 
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version: 1.1.0
+google_analytics_id: 
